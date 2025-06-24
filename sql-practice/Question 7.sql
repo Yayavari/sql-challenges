@@ -1,5 +1,5 @@
 -- Problem: Show first name, last name, and the full province name of each patient.
-Example: 'Ontario' instead of 'ON'
+-- Example: 'Ontario' instead of 'ON'
 -- Difficulty: Easy
 
 Select first_name, last_name, province_name from patients 
