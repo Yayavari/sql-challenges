@@ -8,7 +8,7 @@ It contains two databases named hospital.db and northwind.db.
 Questions range from:  
 Easy = Tier1_01 to Tier1_16  
 Medium = Tier2_01 to Tier2_26  
-Hard = Tier3_01 to Tier3_
+Hard = Tier3_01 to Tier3_11
 
 ## Schemas
 
