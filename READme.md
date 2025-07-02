@@ -1,6 +1,6 @@
 # SQL Challenges
 
-This repository contains my solutions to various SQL problems from platforms like LeetCode, HackerRank, and StrataScratch. The goal is to improve my database querying skills through hands-on practice with real-world questions.
+This repository contains my solutions to various SQL problems from platforms like LeetCode, HackerRank, StrataScratch and sql-practice. The goal is to improve my database querying skills through hands-on practice with real-world questions.
 
 ## 📁 Structure
 
@@ -8,10 +8,11 @@ The solutions are organized by platform:
 1. Leetcode
 2. Hackerrank
 3. Strata Scratch
+4. sql-practice
 
 Each `.sql` file includes:
 - The problem name
-- A brief description (if needed)
+- Difficulty level
 - My SQL solution
 
 ## 🎯 Goals
