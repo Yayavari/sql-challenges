@@ -2,7 +2,7 @@
 -- Convert CM to feet by dividing by 30.48. Convert KG to pounds by multiplying by 2.205.
 -- Difficulty: Medium
 
-SELECT CONCAT(first_name,' ',last_name) AS patient_name, round(height/30.48,1) AS height, round(weight*2.205,0), birth_date,
+SELECT CONCAT(first_name,' ',last_name) AS patient_name, ROUND(height/30.48,1) AS height, ROUND(weight*2.205,0), birth_date,
 CASE 
 WHEN gender='M' THEN 'Male'
 WHEN gender='F' THEN 'Female'
