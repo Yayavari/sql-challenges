@@ -6,8 +6,8 @@ This folder contains SQL problems solved from [sql-practice](https://www.sql-pra
 
 It contains two databases named hospital.db and northwind.db.  
 Questions range from:  
-Easy = Question_01 to Question_16  
-Medium = Question-01 to Question-
+Easy = Tier1_01 to Tier1_16  
+Medium = Tier2_01 to Tier2_
 
 ## Schemas
 
