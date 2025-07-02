@@ -2,5 +2,5 @@
 -- Example: 'Ontario' instead of 'ON'
 -- Difficulty: Easy
 
-Select first_name, last_name, province_name from patients 
-Join province_names on patients.province_id = province_names.province_id;
+SELECT first_name, last_name, province_name FROM patients 
+JOIN province_names ON patients.province_id = province_names.province_id;
