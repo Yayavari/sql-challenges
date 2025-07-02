@@ -4,9 +4,9 @@ This folder contains SQL problems solved from [sql-practice](https://www.sql-pra
 
 ## Pattern
 
-It contains two databases named hospital.db and northwind.db.
-Questions range from:
-Easy = Question_01 to Question_16
+It contains two databases named hospital.db and northwind.db.  
+Questions range from:  
+Easy = Question_01 to Question_16  
 Medium = Question-01 to Question-
 
 ## Schemas
